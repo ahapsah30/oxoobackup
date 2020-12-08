@@ -76,10 +76,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
     'dsn' => '',
-    'hostname' => 'localhost',
-    'username' => 'id12086717_bangjono',
-    'password' => '9vhY4G^?KxIB5S2C',
-    'database' => 'id12086717_dbfilm',
+    'hostname' => 'b4ccpvude0cldkjds5eg-mysql.services.clever-cloud.com',
+    'username' => 'ut9x1ts9tcu87egw',
+    'password' => 'r43cZsYjlAKBNFBuuQvw',
+    'database' => 'b4ccpvude0cldkjds5eg',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE, //set it FALSE if your site has a huge trafic and/or you are saving session data in database
